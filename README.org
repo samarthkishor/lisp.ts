@@ -1,0 +1,5 @@
+#+TITLE: Lisp.ts
+
+This is my attempt to implement a basic Lisp interpreter in TypeScript following Peter Norvig's [[http://norvig.com/lispy.html][Python implementation]] as closely as possible.
+
+=lisp.ts= is incomplete since my =eval= (renamed to =evaluate= since js already has an =eval=) function is not working as intended.  This was basically an excersise to learn Lisp more thoroughly and try out TypeScript.
